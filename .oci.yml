@@ -1,1 +1,1 @@
-manifest : "test/manifest.json"
+manifestPath : "test/manifest.json"
