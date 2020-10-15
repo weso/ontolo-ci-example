@@ -1,3 +1,5 @@
 manifestPath : "manifest.json"
+
 ontologyFolder: "src"
+
 testFolder: "test"
