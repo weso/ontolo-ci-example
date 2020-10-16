@@ -15,12 +15,12 @@
      "in_shape_map": "random_shape_in.m",
      "out_shape_map": "random_shape_out.m"
    },
-   {
-      "test_name": "test that a all nodes from a sparql query conform to project",
-      "ontology": "asio-core.ttl",
-      "data": "asio-individuals.ttl",
-      "schema": "project.s",
-      "in_shape_map": "project_sparql_in.m",
-      "out_shape_map": "project_sparql_out.m"
-    }
+    {
+     "test_name": "test that a project instance does not conform to a random shape",
+     "ontology": "asio-core.ttl",
+     "data": "asio-individuals.ttl",
+     "schema": "random_shape.s",
+     "in_shape_map": "random_shape_in.m",
+     "out_shape_map": "random_shape_out.m"
+   }
 ]
