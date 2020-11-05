@@ -12,7 +12,7 @@
     "ontology": "asio-core.ttl",
     "data": "asio-individuals.ttl",
     "schema": "project.s",
-    "in_shape_map": "project_in_fail.m",
+    "in_shape_map": "project_in_fails.m",
     "out_shape_map": "project_out.m"
   },
   {
