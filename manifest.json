@@ -13,7 +13,7 @@
     "data": "asio-individuals.ttl",
     "schema": "project.s",
     "in_shape_map": "project_in_fails.m",
-    "out_shape_map": "project_out.m"
+    "out_shape_map": "project_out_fails.m"
   },
   {
      "test_name": "test that a project instance does not conform to a random shape",
