@@ -76,6 +76,24 @@ asioIndividuals:MockProject3 rdf:type owl:NamedIndividual ,
                      rdfs:label "PoLyGlot (Mock Project)"@en ,
                                 "PoLyGlot (Mock Project)"@es  .
 
+asioIndividuals:COMPETENCY rdf:type owl:NamedIndividual ,
+                            asio:EuropeanProject ;
+                      asio:projectStartDate "2019-01-13"^^xsd:date ;
+                      asio:projectEndDate "2022-12-12"^^xsd:date ;
+                      asio:isFundedBy asioIndividuals:Horizon2020 ;
+                      asio:projectBudget "239191.20"^^xsd:decimal ;
+                      asio:hasResearchField asioModules:ES_SUBJECT_AREA_LEVEL_2_CTM ;
+                      asio:projectObjective """MULTIPLE will develop cost-effective multimodal monitoring solutions with a breakthrough impact on production quality and efficiency. It will bring cutting-edge OLED-based sensors, snapshot hyperspectral filters and dual-aperture imaging to deliver cost-effective spectrometers and camera cores in a broad VIS/SWIR range, complemented with cost effective laser-based chemometric sensors in the MWIR. On top of these sensors, MULTIPLE will develop novel multimodal monitoring systems that will be IoT native, by combining them with cloud, big data, and deep learning for agile development and orchestration of complex AI-based models to optimize production improving EU manufacturing competitiveness.
+To develop cost-effective HSI SWIR (0.9-1.7 µm) camera cores ready for volume production.
+To develop a compact and cost-effective dual-aperture HSI imager combining snapshot CMOS and InGaAs hyperspectral sensors based on mosaic filters covering the whole VIS/SWIR range (0.4-1.7 µm).
+To develop novel cost-effective spectrometer solutions for highly specific chemometric analysis in an extended VIS/MWIR range (0.4-3.5 µm wavelength), based on innovative OLED sensors and laser-based spectroscopy.
+To develop embedded deep models for regression, classification and RT control. It will guarantee onsite and online measurements and classification of different types of categories with high flexibility, accuracy, and reliability.
+To develop an integral and scalable approach to process monitoring, quality assurance, and process optimization through the orchestration of photonic monitoring systems under an IoT native approach. The aim is to leverage SoA cloud and big data technologies to create new services and microservices enhancing decision support tools.
+To demonstrate MUTLIPLE in 3 manufacturing scenarios: steelworking, woodworking and food"""@en ;
+                      rdfs:comment "Climate cHange mitigAtioN poliCies and Equality: distributional implications for different socio-economic groups"@en ;
+                      rdfs:label "CHANCE"@en ,
+                                 "CHANCE"@es  .
+
 
 ###  http://www.asio.es/asioinstances/asio#CHANCE
 asioIndividuals:CHANCE rdf:type owl:NamedIndividual ,
