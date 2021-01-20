@@ -1,18 +1,10 @@
 [
  {
-    "test_name": "test that a project instance has all needed attributes",
+    "test_name": "File Not Found Test",
     "ontology": "asio-core.ttl",
     "data": "asio-individuals.ttl",
     "schema": "project.s",
-    "in_shape_map": "project_in.m",
+    "in_shape_map": "invented-file.m",
     "out_shape_map": "project_out.m"
-  },
-  {
-     "test_name": "test that a project instance does not conform to a random shape",
-     "ontology": "asio-core.ttl",
-     "data": "asio-individuals.ttl",
-     "schema": "random_shape.s",
-     "in_shape_map": "random_shape_in.m",
-     "out_shape_map": "random_shape_out.m"
-   }
+  }
 ]
