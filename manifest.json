@@ -11,32 +11,32 @@
     "test_name": "test that a researcher instance has all needed attributes",
     "ontology": "asio-core.ttl",
     "data": "asio-individuals.ttl",
-    "schema": "researcher.s",
-    "in_shape_map": "researcher_in.m",
-    "out_shape_map": "researcher_out.m"
+    "schema": "project.s",
+    "in_shape_map": "project_in.m",
+    "out_shape_map": "project_out.m"
   },
  {
     "test_name": "test that a profesor instance has all needed attributes",
     "ontology": "asio-core.ttl",
     "data": "asio-individuals.ttl",
-    "schema": "profesor.s",
-    "in_shape_map": "profesor_in.m",
-    "out_shape_map": "profesor_out.m"
+    "schema": "project.s",
+    "in_shape_map": "project_in.m",
+    "out_shape_map": "project_out.m"
   },
  {
     "test_name": "test that a university instance has all needed attributes",
     "ontology": "asio-core.ttl",
     "data": "asio-individuals.ttl",
-    "schema": "university.s",
-    "in_shape_map": "university_in.m",
-    "out_shape_map": "university_out.m"
+     "schema": "project.s",
+    "in_shape_map": "project_in.m",
+    "out_shape_map": "project_out.m"
   },
  {
     "test_name": "test that a departament instance has all needed attributes",
     "ontology": "asio-core.ttl",
     "data": "asio-individuals.ttl",
-    "schema": "departament.s",
-    "in_shape_map": "departament_in.m",
-    "out_shape_map": "departament_out.m"
+    "schema": "project.s",
+    "in_shape_map": "project_in.m",
+    "out_shape_map": "project_out.m"
   }
 ]
