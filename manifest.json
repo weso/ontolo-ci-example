@@ -1,6 +1,6 @@
 [
  {
-    "test_name": "test that a project instance has all needed attributes",
+    "test_name": "Testing ontolgy-v2",
     "ontology": "asio-core.ttl",
     "data": "asio-individuals.ttl",
     "schema": "project.s",
