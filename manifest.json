@@ -1,10 +1,26 @@
 [
  {
-    "test_name": "test that a project instance has all needed attributes",
+    "test_name": "Test that a project instance has all needed attributes",
     "ontology": "asio-core.ttl",
     "data": "asio-individuals.ttl",
-    "schema": "project.s",
+    "schema": "project.shex",
     "in_shape_map": "project_in.m",
     "out_shape_map": "project_out.m"
+  },
+ {
+    "test_name": "Test that a researcher instance has all needed attributes",
+    "ontology": "asio-core.ttl",
+    "data": "asio-individuals.ttl",
+    "schema": "researcher.shex",
+    "in_shape_map": "researcher_in.m",
+    "out_shape_map": "researcher_out.m"
+  },
+ {
+    "test_name": "test that a human instance has all needed attributes",
+    "ontology": "asio-core.ttl",
+    "data": "asio-individuals.ttl",
+    "schema": "human.shex",
+    "in_shape_map": "human_in.m",
+    "out_shape_map": "human_out.m"
   }
 ]
