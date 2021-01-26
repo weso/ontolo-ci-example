@@ -13,30 +13,6 @@
     "data": "asio-individuals.ttl",
     "schema": "project.s",
     "in_shape_map": "project_in.m",
-    "out_shape_map": "project_out.m"
-  },
- {
-    "test_name": "test that a profesor instance has all needed attributes",
-    "ontology": "asio-core.ttl",
-    "data": "asio-individuals.ttl",
-    "schema": "project.s",
-    "in_shape_map": "project_in.m",
-    "out_shape_map": "project_out.m"
-  },
- {
-    "test_name": "test that a university instance has all needed attributes",
-    "ontology": "asio-core.ttl",
-    "data": "asio-individuals.ttl",
-     "schema": "project.s",
-    "in_shape_map": "project_in.m",
-    "out_shape_map": "project_out.m"
-  },
- {
-    "test_name": "test that a departament instance has all needed attributes",
-    "ontology": "asio-core.ttl",
-    "data": "asio-individuals.ttl",
-    "schema": "project.s",
-    "in_shape_map": "project_in.m",
-    "out_shape_map": "project_out.m"
+    "out_shape_map": "project_out2.m"
   }
 ]
