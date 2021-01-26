@@ -4,7 +4,7 @@
     "ontology": "asio-core.ttl",
     "data": "asio-individuals.ttl",
     "schema": "project.s",
-    "in_shape_map": "project_in.m",
+    "in_shape_map": "project_i2n.m",
     "out_shape_map": "project_out.m"
   }
 ]
