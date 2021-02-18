@@ -1,0 +1,11 @@
+@prefix weso: <http://www.weso.com/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+
+weso:Pablo a owl:Class .
+weso:Alex a owl:Class .
+weso:AhoraSiQueSi a owl:Class .
+
+weso:asdasdas a owl:Class .
+
+weso:vamos a owl:Class .
