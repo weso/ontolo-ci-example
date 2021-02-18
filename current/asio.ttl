@@ -10,3 +10,5 @@ weso:asdasdas a owl:Class .
 
 weso:vamos a owl:Class .
 weso:FuckU a owl:Class .
+
+weso:FuckReleases a owl:Class .
