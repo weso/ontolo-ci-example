@@ -15,12 +15,5 @@
     "in_shape_map": "project_in.m",
     "out_shape_map": "project_out.m"
   },
-  {
-    "test_name": "test that a project instance has all needed attributes3",
-    "ontology": "asio-core.ttl",
-    "data": "asio-individuals.ttl",
-    "schema": "project.s",
-    "in_shape_map": "project_in.m",
-    "out_shape_map": "project_out.m"
-  }
+
 ]
