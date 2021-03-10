@@ -14,6 +14,5 @@
     "schema": "project.s",
     "in_shape_map": "project_in.m",
     "out_shape_map": "project_out.m"
-  },
-
+  }
 ]
