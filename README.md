@@ -1,2 +1,2 @@
-# ontolo-ci-test
-Repostitory for [ontolo-ci](https://github.com/weso/ontolo-ci) testing
+# ontolo-ci-example
+Sample repo to use ontolo-ci
