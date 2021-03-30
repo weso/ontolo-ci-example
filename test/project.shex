@@ -157,3 +157,5 @@ asio:ResearchFieldShape @asio:ESSubjectAreas3rdListShape
 asio:ESSubjectAreas3rdListShape { }
 asio:ESSubjectAreas2ndListShape { }
 asio:ESSubjectAreas1ndListShape { }
+asio:Researcher {}
+asio:Group {}
