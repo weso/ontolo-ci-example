@@ -21,6 +21,6 @@
     "data": "asio-individuals.ttl",
     "schema": "project.shex",
     "in_shape_map": "project_in.sm",
-    "out_shape_map": "project_out.sm"
+    "out_shape_map": "projectw_out.sm"
   }
 ]
