@@ -14,5 +14,13 @@
     "schema": "project.shex",
     "in_shape_map": "researchTest.sm",
     "out_shape_map": "researchTest_out.sm"
+  },
+  {
+    "test_name": "test that WESO instance is a Group",
+    "ontology": "asio-core.ttl",
+    "data": "asio-individuals.ttl",
+    "schema": "project.shex",
+    "in_shape_map": "groupTest.sm",
+    "out_shape_map": "groupTest_out.sm"
   }
 ]
