@@ -13,8 +13,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-asioIndividuals:Pablo .
-asioIndividuals:WESO .
+asioIndividuals:Pablo rdf:type owl:NamedIndividual .
+asioIndividuals:WESO rdf:type owl:NamedIndividual .
 
 
 ###  http://www.asio.es/asioinstances/asio#AlejandroGonzalezHevia
