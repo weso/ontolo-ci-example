@@ -6,5 +6,13 @@
     "schema": "project.shex",
     "in_shape_map": "project_in.sm",
     "out_shape_map": "project_out.sm"
+  },
+ {
+    "test_name": "test that a project instance has all needed attributes",
+    "ontology": "asio-core.ttl",
+    "data": "asio-individuals.ttl",
+    "schema": "project.shex",
+    "in_shape_map": "project_in.sm",
+    "out_shape_map": "project_out.sm"
   }
 ]
